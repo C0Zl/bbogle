@@ -1,5 +1,4 @@
 # ⚡뽀글 (Bbogle)
-
 ### 매일의 기록으로 프로젝트와 경험 정리를 도와주는 AI 서비스
 
 ---
@@ -15,12 +14,12 @@
 
 | 이름     | GitHub ID | 역할                     |
 |----------|-----------|--------------------------|
-| 김선하   | @kimzonah   | Back-end |
-| 김태한   | @김태한   | Front-end |
-| 문범수   | @문범수   | AI |
-| 박예본   | @박예본   | Back-end , INFRA |
-| 이지혜   | @C0Zl   | Front-end |
-| 홍선주   | @홍선주   | Front-end |
+| 김선하   | [@kimzonah](https://github.com/kimzonah) | Back-end |
+| 김태한   | [@Taehankk](https://github.com/Taehankk)   | Front-end |
+| 문범수   | [@ANSmoon](https://github.com/ANSmoon)   | AI |
+| 박예본   | [@shanaid](https://github.com/shanaid)   | Back-end , INFRA |
+| 이지혜   | [@C0Zl](https://github.com/C0Zl)   | Front-end |
+| 홍선주   | [@hhsssu](https://github.com/hhsssu)   | Front-end |
 
 ---
 
@@ -56,7 +55,7 @@
 ### 주요 기능
 |기능|상세 설명|디자인|
 |:---:|:---:|:---:|
-|회고 작성|매일의 작업 내용을 뽀글에서 회고할 수 있어요|<img src="https://github.com/user-attachments/assets/b78a0b29-128c-4d7e-af4b-c43c477cbd13" alt="image" border="0" style="width: 500px;">>|
+|회고 작성|매일의 작업 내용을 뽀글에서 회고할 수 있어요|<img src="https://github.com/user-attachments/assets/b78a0b29-128c-4d7e-af4b-c43c477cbd13" alt="image" border="0" style="width: 500px;">|
 |회고록|프로젝트가 모두 끝났다면, </br>프로젝트 전체 회고록을 뽑을 수 있어요|<img src="https://github.com/user-attachments/assets/3396993e-d8c6-4c57-9878-80748c72fbfc" alt="image" border="0" style="width: 500px;">|
 |경험|내가 적은 회고를 바탕으로, </br>프로젝트에서 얻은 경험들을 추출할 수 있어요 </br>|<img src="https://github.com/user-attachments/assets/a61c0769-fab0-4875-a4f8-7fcfbed711fe" alt="image" border="0" style="width: 500px;">|
 |알림 기능|잊어버리지 않도록 매일 회고 알림을 보내드려요.|<img src="https://github.com/user-attachments/assets/1671f3cd-fd25-42ff-9ba9-a74a4a8d60b3" alt="image" border="0" style="width: 500px;">|
